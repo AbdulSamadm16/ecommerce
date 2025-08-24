@@ -1,0 +1,18 @@
+
+:root {
+  --radius: 1.25rem;
+}
+.card, .btn, .form-control {
+  border-radius: var(--radius);
+}
+.navbar-brand { letter-spacing: .5px; }
+.img{
+  width: 415px;
+  height: 415px;
+  
+}
+
+.wimg{
+width: 415px;
+height: 275px;
+}
